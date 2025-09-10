@@ -1,2 +1,1 @@
-# PrepCourse-Henry2
-Este es un repositorio de prueba del modulo 2 de Henry
+Este es un ejemplo de como descargar un repositorio y dejarlo de forma local
